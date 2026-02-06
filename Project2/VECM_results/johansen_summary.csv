@@ -1,0 +1,7 @@
+sector,n_obs,n_vars,coint_rank
+rus_fin,626,3,0
+rus_oil,1616,3,0
+rus_met,1616,3,0
+us_tech,2514,3,1
+us_retail,2514,3,0
+us_energy,2514,3,0
